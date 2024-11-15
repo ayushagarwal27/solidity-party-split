@@ -1,13 +1,7 @@
-# Sample Hardhat Project
+# Party Split Contract
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+Users can deposit amount in a pool, pay for an Event and get back left amount equally divided among members
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Party.ts
-```
+- Solidity
+- HardHat
+- Deployment Script
